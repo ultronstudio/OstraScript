@@ -35,4 +35,4 @@ eval(jsCode);
 Pokud máte zájem přispět do projektu, neváhejte vytvořit pull request nebo nahlásit problém na GitHubu.
 
 ## Licence
-Tento projekt je licencován pod MIT licencí.
+Tento projekt je licencován pod MIT licencí
