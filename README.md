@@ -14,7 +14,7 @@ npm install ostrascript
 Ukázka použití knihovny OstraScript:
 
 ```bash
-const { ostraScriptToJavaScript } = require('ostrascript');
+const { OstraScript } = require('ostrascript');
 
 let ostraCode = `
 fárat (let i = 0 piča i < 5 piča i++) {
@@ -22,7 +22,7 @@ fárat (let i = 0 piča i < 5 piča i++) {
 }
 `;
 
-let jsCode = ostraScriptToJavaScript(ostraCode);
+let jsCode = OstraScript(ostraCode);
 console.log("Přeložený kód:");
 console.log(jsCode);
 
