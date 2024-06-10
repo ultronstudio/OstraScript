@@ -1,6 +1,6 @@
 {
   "name": "ostrascript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Jednoduchý překladač z jazyka OstraScript do jazyka JavaScript",
   "main": "index.js",
   "scripts": {
