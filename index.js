@@ -3,7 +3,7 @@ function OstraScript(ostraCode) {
     let jsCode = ostraCode.replace(/\bfárat\b/g, 'for');
     
     // Nahrazení "piča" za ";"
-    jsCode = jsCode.replace(/\bpiča\b/g, ';');
+    jsCode = jsCode.replace(/ \bpiča\b/g, ';');
     
     return jsCode;
 }
