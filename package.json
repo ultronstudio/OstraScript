@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ultronstudio/ostrascript/issues"
   },
-  "homepage": "https://github.com/ultronstudio/ostrascript#readme"
+  "homepage": "https://github.com/ultronstudio/ostrascript#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
