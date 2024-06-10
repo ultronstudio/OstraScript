@@ -1,6 +1,6 @@
 # OstraScript
 
-OstraScript je jednoduchý překladač z OstraScriptu do JavaScriptu. OstraScript je humoristický programovací jazyk, který nahrazuje slovo `for` slovem `fárat` a středníky `;` slovem `piča`.
+OstraScript je jednoduchý překladač z OstraScriptu do JavaScriptu. OstraScript je humoristický programovací jazyk pro programátory města Ostrava v České republice.
 
 ## Instalace
 
