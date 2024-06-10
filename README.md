@@ -15,7 +15,7 @@ Test knihovny provedete spuštěním příkazu `npm run test`. V konzoli byste m
 ## Použití
 Ukázka použití knihovny OstraScript:
 
-```bash
+```javascript
 const fs = require('fs');
 const { OstraScript } = require('ostrascript');
 
