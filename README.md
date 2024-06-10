@@ -9,6 +9,8 @@ Nainstalujte OstraScript pomocí npm:
 ```bash
 npm install ostrascript
 ```
+## Test
+Test knihovny provedete spuštěním příkazu `npm run test`. V konzoli byste měli vidět výsledný kód i výstup.
 
 ## Použití
 Ukázka použití knihovny OstraScript:
