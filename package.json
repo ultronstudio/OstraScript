@@ -1,0 +1,24 @@
+{
+  "name": "ostrascript",
+  "version": "1.0.0",
+  "description": "A simple translator from OstraScript to JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultronstduio/ostrascript.git"
+  },
+  "keywords": [
+    "ostrascript",
+    "translator",
+    "javascript"
+  ],
+  "author": "Petr Vurm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultronstduio/ostrascript/issues"
+  },
+  "homepage": "https://github.com/ultronstduio/ostrascript#readme"
+}
